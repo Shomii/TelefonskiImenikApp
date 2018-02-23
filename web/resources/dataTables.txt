@@ -1,0 +1,4 @@
+{
+    "sProcessing":     "Processing...",
+    "sLengthMenu": "Show <select><option value=-1>INFINITE</option></select> results"
+}

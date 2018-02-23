@@ -1,0 +1,51 @@
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+.azuriranje_button {
+    margin: 0 auto;
+    font-size: 1.0rem;
+    padding: .5rem 1.0rem;
+    display: block;
+    background-color: #009ac9;
+    border: 1px solid transparent;
+    color: #ffffff;
+    font-weight: 300;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+
+}
+
+.delete_button {
+    margin: 0;
+    font-size: 1.0rem;
+    padding: .5rem 1.0rem;
+    display: block;
+    background-color: #9E2845;
+    border: 1px solid transparent;
+    color: #ffffff;
+    font-weight: 300;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    margin-top: 5px;
+    margin: 30px 15px 15px 15px;
+}           
+
+.azuriranje:hover {
+    background-color: #ffffff;
+    color: #009ac9;
+    border-color: #009ac9;
+}
+
+.delete:hover {
+    background-color: #fff;
+    color: red;
+    border-color: #009ac9;
+}
