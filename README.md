@@ -2,7 +2,7 @@
 
 je simulacija web ablikacije telefonski imenik.
 
-https://www.youtube.com/edit?o=U&ar=2&video_id=bkMnq9wV6Wg
+https://youtu.be/bkMnq9wV6Wg
 
 # PHONE BOOK
 
